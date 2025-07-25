@@ -68,7 +68,7 @@
     "@nestjs/websockets": "^10.3.8",
     "@ntegral/nestjs-sentry": "^4.0.1",
     "@sentry/node": "^6.19.7",
-    "@techpass/passport-openidconnect": "^0.3.3",
+    "@techpass/passport-openidconnect": "^1.0.0",
     "@types/chai": "^4.3.16",
     "airtable": "^0.12.2",
     "ajv": "^8.12.0",
