@@ -39,7 +39,7 @@
     "generate:sdk": "node build-script/mergeAndGenerateSwaggerCE && pnpm exec swagger-typescript-api -r -p ./nc_swagger.json -o ./src/lib/  --axios --unwrap-response-data  --module-name-first-tag --type-suffix=Type --templates ../../scripts/sdk/templates; rm ./nc_swagger.json"
   },
   "dependencies": {
-    "axios": "^1.6.8",
+    "axios": "^1.13.5",
     "dayjs": "^1.11.11",
     "jsep": "^1.3.8"
   },
